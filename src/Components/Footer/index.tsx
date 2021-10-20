@@ -14,7 +14,7 @@ export default function Footer(){
             <ul>
                 <li>
                     Landing Page long description would go here so I'm just 
-                    gonna write some stuff here to take fit this space :D
+                    gonna write some stuff here to fit this space :D
                 </li>
                 <li>+55-999-999-9999</li>
                 <li>example@email.com</li>
