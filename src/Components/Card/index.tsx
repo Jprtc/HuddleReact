@@ -20,7 +20,6 @@ const Card = ({item:{id,title,body,image}}:CardProps) => {
             <div>
                 <img src={image} alt={`Of ${title}`}/>
             </div>
-
         </StyledCard>
     )
 }
